@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p pdi This command calculates the polytomous discrimination index (PDI) Use pdi With STATA 19
