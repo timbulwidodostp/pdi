@@ -1,4 +1,5 @@
-D 'DEA': Data envelopment analysis
+D 'pdi': This command calculates the polytomous discrimination index (PDI) Use pdi With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F pdi.ado
+F pdi.sthlp
+F pdi_outcome.ado
