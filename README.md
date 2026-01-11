@@ -1,6 +1,8 @@
 # pdi
 This command calculates the polytomous discrimination index (PDI) Use pdi With STATA 19
 
+https://www.youtube.com/watch?v=kYWj0jVRVTE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
